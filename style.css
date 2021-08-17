@@ -1,0 +1,13 @@
+a.proj:link {
+    color: #00bbff;
+    text-decoration: none;
+}
+
+a.proj:visited {
+    color: #00bbff;
+    text-decoration: none;
+}
+
+ul.proj {
+    list-style-type: none;
+}
